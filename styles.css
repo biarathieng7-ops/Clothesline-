@@ -1,11 +1,11 @@
 h1{
     text-align: center;
-    color: yellow;
+    color: rgb(238, 19, 19);
     padding: auto;
     font-size: 100px;
 }
 .al{
-    background-image: url("images1/clothe8.jpeg");
+    background-image: url("images1/clothe3.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
