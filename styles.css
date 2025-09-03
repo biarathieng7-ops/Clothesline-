@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: yellow;
+    padding: auto;
+    font-size: 100px;
+}
+.al{
+    background-image: url("images1/clothe8.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100;
+    height: 1000px;
+}
+#steve a{
+    text-decoration: none;
+    font-size: large;
+    inline-size: none;
+    color: yellow;
+
+
+}
+#about{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.row img{
+    border-radius: 20%;
+    align-items: center;
+    margin-left: 60px;
+}
+h4{
+    text-align: center;
+}
